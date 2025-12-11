@@ -1,3 +1,4 @@
+                    CUSTOMER EMAIL GENERATOR
 Automating customer support can improve efficiency and response times. 
 In this project, we’ll build 
 1. a Customer Support Email Generator using Langchain for natural language processing,
