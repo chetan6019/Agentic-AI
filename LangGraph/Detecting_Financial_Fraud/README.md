@@ -25,3 +25,13 @@ and producing:
 3. A natural language investigation report
 4. A Markdown report for UI rendering
 5. A JSON audit log for regulatory traceability
+
+
+Database Schema (Tables)
+
+1. users: Basic user info
+2. accounts: Account types, currencies, balances
+3. transactions: Transaction history including amount, category, and fraud flag
+4. merchants: Merchant categories and countries
+5. fraud_labels: Manually labeled fraud indicators
+6. audit_logs: Stores actions performed by the system
